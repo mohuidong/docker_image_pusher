@@ -1,4 +1,11 @@
 nginx
+php:8.3.9RC1-zts-alpine3.20
+php:7.3.33-zts-alpine3.14
+redis:5.0
+mysql
+postgres
+apachepulsar/pulsar:3.3.0
+sebp/elk:8.13.4
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
