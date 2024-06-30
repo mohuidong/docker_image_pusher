@@ -1,8 +1,8 @@
-php:7.3.31-fpm
-php:8.3-rc-fpm
-mysql:8.0
-postgres:16.3-alpine
-alpine:3.20.1
+#php:7.3.31-fpm
+php:7.4.33-fpm
+#mysql:8.0
+#postgres:16.3-alpine
+#alpine:3.20.1
 #apachepulsar/pulsar:3.3.0
 #sebp/elk:8.13.4
 #支持私库
