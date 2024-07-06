@@ -1,11 +1,12 @@
-php:7.3.33-fpm
+#php:7.3.33-fpm
+php:7.3.33-fpm-alpine
 #php:7.3.31-fpm
 #nginx:1.27-alpine
-php:7.1.33-fpm-alpine
+#php:7.1.33-fpm-alpine
 #redis:5.0.14-alpine
 #postgres:16.3-alpine
 #php:7.4.33-fpm
-mysql:8.0.34
+#mysql:8.0.34
 #postgres:16.3-alpine
 #alpine:3.20.1
 #apachepulsar/pulsar:3.3.0
