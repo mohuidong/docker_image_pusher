@@ -1,5 +1,6 @@
+apachepulsar/pulsar:2.9.5
 #php:7.3.33-fpm
-php:7.3.33-fpm-alpine
+#php:7.3.33-fpm-alpine
 #php:7.3.31-fpm
 #nginx:1.27-alpine
 #php:7.1.33-fpm-alpine
