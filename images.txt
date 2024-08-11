@@ -1,5 +1,9 @@
-bitnami/pgbouncer:1.23.0
-bitnami/pgbouncer:1.22.1
+xuxueli/xxl-job-admin:2.4.1
+xuxueli/xxl-job-admin:2.4.0
+xuxueli/xxl-job-admin:2.3.1
+xuxueli/xxl-job-admin:2.1.2
+#bitnami/pgbouncer:1.23.0
+#bitnami/pgbouncer:1.22.1
 #apachepulsar/pulsar-manager:v0.4.0
 #apachepulsar/pulsar:2.9.5
 #php:7.3.33-fpm
