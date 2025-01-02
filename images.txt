@@ -1,5 +1,6 @@
-openjdk:8-jre-slim
-openjdk:8u342-jre-slim
+#openjdk:8-jre-slim
+#openjdk:8u342-jre-slim
+python:3.8.20
 #xuxueli/xxl-job-admin:2.4.1
 #xuxueli/xxl-job-admin:2.4.0
 #xuxueli/xxl-job-admin:2.3.1
