@@ -1,7 +1,10 @@
+nginx:1.27.3
+centos:7
+centos:8
 #openjdk:8-jre-slim
 #openjdk:8u342-jre-slim
-python:3.8.20-alpine3.20
-bitnami/mongodb:8.0.4
+#python:3.8.20-alpine3.20
+#bitnami/mongodb:8.0.4
 #xuxueli/xxl-job-admin:2.4.1
 #xuxueli/xxl-job-admin:2.4.0
 #xuxueli/xxl-job-admin:2.3.1
