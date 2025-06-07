@@ -1,6 +1,7 @@
-nginx:1.27.3
-centos:7
-centos:8
+swoft/swoft
+#nginx:1.27.3
+#centos:7
+#centos:8
 #openjdk:8-jre-slim
 #openjdk:8u342-jre-slim
 #python:3.8.20-alpine3.20
